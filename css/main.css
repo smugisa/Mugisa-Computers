@@ -128,13 +128,13 @@ header{
 #contact button{
     background-color: #353531;
     font-size: 24px;
-    color: #F15025;
+    color: white;
     margin-bottom: 20px;
 }
 
 #contact button:hover{
     background-color: #CED0CE;
-    color: white;
+    color: #F15025;
 }
 
 #footer .title-underline{
@@ -169,21 +169,3 @@ header{
     padding: 40px 0;
     color: #CED0CE;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
